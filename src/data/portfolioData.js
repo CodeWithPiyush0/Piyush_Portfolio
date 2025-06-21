@@ -13,7 +13,7 @@ const portfolioData = {
     {
       institution: "Chandigarh University",
       degree: "MCA (AIML)",
-      score: "6.97 CGPA",
+      score: "7.2 CGPA",
       period: "2023 - 2025"
     },
     {
