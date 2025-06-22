@@ -24,7 +24,7 @@ const portfolioData = {
     }
   ],
   skills: {
-    frontend: ["React", "Redux", "Angular", "Bootstrap", "Tailwind CSS", "WordPress],
+    frontend: ["React", "Redux", "Angular", "Bootstrap", "Tailwind CSS", "WordPress"],
     design: ["Figma", "User Research", "Wireframing", "Prototyping"],
     backend: ["Node.js", "Express.js", "PHP"],
     programming: ["Python", "JavaScript", "Java"],
